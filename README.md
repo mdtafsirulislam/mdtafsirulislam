@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tafsir
 - 👀 I’m interested in Game Development besides Robotics
 - 🌱 I’m currently learning AI & ML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on other content github
 - 📫 How to reach me ...
 
 <!---
